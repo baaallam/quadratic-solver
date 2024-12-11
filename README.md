@@ -59,6 +59,8 @@ enter the value of b : -3
 enter the value of c : 2
 
 les s sont : 1.00 et 2.00
+
+
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
